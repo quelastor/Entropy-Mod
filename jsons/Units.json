@@ -1,0 +1,33 @@
+[
+	{
+		"name": "Рыцарь Ужаса",
+		"uniqueTo": "Хаотическая Империя",
+		"replaces": "Longswordsman",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 28,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Rifleman",
+		"uniques": [],
+		"attackSound": "sword1"
+	},
+    	{
+        	"name": "Флагман D86L12",
+        	"uniqueTo": "Хаотическая Империя",
+        	"unitType": "WaterRanged",
+        	"movement": 5,
+        	"strength": 55,
+        	"rangedStrength": 75,
+        	"range": 3,
+        	"cost": 425,
+        	"requiredTech": "Electronics",
+        	"obsoleteTech": "Lasers",
+        	"uniques": [
+            		"[+200]% Strength <vs [Cities] units>",
+            		"Can only attack [City] units",
+        ],
+        	"attackSound": "artillery"
+    	}
+
+]
