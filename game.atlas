@@ -1,0 +1,62 @@
+
+game.png
+size: 512, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Рыцарь Ужаса
+  rotate: false
+  xy: 270, 123
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Рыцарь Ужаса-2
+  rotate: false
+  xy: 373, 123
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Флагман D86L12
+  rotate: false
+  xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Флагман D86L12-1
+  rotate: false
+  xy: 76, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Флагман D86L12-2
+  rotate: false
+  xy: 162, 54
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitIcons/Рыцарь Ужаса
+  rotate: false
+  xy: 162, 118
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Флагман D86L12
+  rotate: false
+  xy: 4, 68
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NationIcons/Хаотическая Империя
+  rotate: false
+  xy: 4, 68
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
